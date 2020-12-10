@@ -1,0 +1,9 @@
+{
+  "name": "yarn-reentrance-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn set version latest"
+  }
+}
